@@ -15,7 +15,7 @@ require (
 	github.com/aws/smithy-go v1.22.2
 	github.com/raito-io/enumer v0.1.6
 	github.com/stretchr/testify v1.10.0
-	golang.org/x/tools v0.29.0
+	golang.org/x/tools v0.30.0
 )
 
 replace github.com/Khan/genqlient v0.7.0 => github.com/raito-io/genqlient v0.0.2
